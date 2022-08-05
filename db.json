@@ -1,0 +1,23 @@
+{
+  "topics": [
+    {
+      "name": "ftuafdf",
+      "lastName": "fut",
+      "number": "uf",
+      "id": 1,
+      "async (id, editContact) ": "> {\n    await axios__WEBPACK_IMPORTED_MODULE_1___default().patch(`${API}/${id}`, editContact);\n  }"
+    },
+    {
+      "name": "eeeftyf",
+      "lastName": "r57",
+      "number": "r56",
+      "id": 2
+    },
+    {
+      "name": "sdfasqf",
+      "lastName": "sdfasda",
+      "number": "sdfsdf",
+      "id": 3
+    }
+  ]
+}
